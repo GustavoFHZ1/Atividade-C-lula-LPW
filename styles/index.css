@@ -215,15 +215,6 @@
         gap: 5px;
     }
     
-    .titulo-principal{
-        display: flex;
-        justify-content:center;
-    }
-
-    .subtitulo{
-        display: flex;
-        justify-content: center;
-    }
    
 
     .grid-funcoes {
