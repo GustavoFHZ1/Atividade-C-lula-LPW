@@ -3,10 +3,7 @@
     font-family: "Roboto";
     line-height: 1.6;
     color: #333;
-
 }
-
-
 
 .cabecalho {
     background: linear-gradient(135deg, #1e3a8a, #1e40af);
@@ -136,7 +133,6 @@
     margin-bottom: 20px;
 }
 
-/* Cards */
 .grid-funcoes {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
