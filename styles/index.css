@@ -209,10 +209,22 @@
 
 @media (max-width: 768px) {
     .lista-menu {
-        
+        display:flex;
+        justify-content: center;
         align-items: center;
         gap: 10px;
     }
+    
+    .titulo-principal{
+        display: flex;
+        justify-content:center;
+    }
+
+    .subtitulo{
+        display: flex;
+        justify-content: center;
+    }
+   
 
     .grid-funcoes {
         grid-template-columns: 1fr;
@@ -222,6 +234,7 @@
     .coluna-texto {
         padding: 8px;
         font-size: 0.875rem;
+        
     }
 }
 
